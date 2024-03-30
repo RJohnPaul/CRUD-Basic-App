@@ -23,9 +23,9 @@ The CRUD application allows users to perform basic CRUD operations on a list of 
 
 2. Open the `index.html` file in your web browser to use the CRUD application.
 
-## Screenshots
+## Demo
 
-[Add screenshots or gifs of your application in action]
+ ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 ## Contributing
 
