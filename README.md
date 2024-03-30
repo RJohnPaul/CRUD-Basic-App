@@ -25,7 +25,7 @@ The CRUD application allows users to perform basic CRUD operations on a list of 
 
 ## Demo
 
- ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+ ![](https://github.com/RJohnPaul/CRUD-Basic-App/blob/main/Demo.gif)
 
 ## Contributing
 
