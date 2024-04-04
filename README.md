@@ -1,6 +1,6 @@
 # CRUD Application
 
-This is a CRUD (Create, Read, Update, Delete) application built using HTML, CSS, and JavaScript.
+This is a CRUD (Create, Read, Update, Delete) application built using basic HTML, CSS, and JavaScript.
 
 ## Description
 
