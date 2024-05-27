@@ -4,7 +4,7 @@ This is a CRUD (Create, Read, Update, Delete) application built using basic HTML
 
 ## Description
 
-The CRUD application allows users to perform basic CRUD operations on a list of students. Users can add new students, view the list of students, edit student details, and delete students from the list.
+The CRUD application allows users to perform basic CRUD operations on  Users can add new students, view the list of students, edit student details, and delete students from the list.
 
 ## Features
 
